@@ -2,7 +2,7 @@
     <PropertyGroup>
         <PackageType>Template</PackageType>
         <PackageVersion>1.0.5</PackageVersion>
-        <PackageId>anko.cleanmicroservicesarchitecture.template</PackageId>
+        <PackageId>anko.cleanarchitecture.template</PackageId>
         <Authors>Anastasia Korovkina</Authors>
         <Title>Clean Architecture Project Template</Title>
         <Descriptions>Clean Architecture template for microservices with API, Application, Core and Infrastructure layers om the course</Descriptions>
@@ -12,7 +12,7 @@
         <IncludeBuildOutput>false</IncludeBuildOutput>
         <ContentTargetFolders>content</ContentTargetFolders>
         <NoWarn>$(NoWarn);NU5128</NoWarn>
-        <RepositoryUrl>https://github.com/AnastasiaKorovkina/lean-dotnet-clean-microservices-architecture-template</RepositoryUrl>
+        <RepositoryUrl>https://github.com/AnLadybug/lean-dotnet-clean-microservices-architecture-template</RepositoryUrl>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
 

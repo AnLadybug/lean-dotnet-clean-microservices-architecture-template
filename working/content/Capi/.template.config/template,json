@@ -7,7 +7,7 @@
         "API",
         "Microservice"
     ],
-  "identity": "anko.cleanmicroservicesarchitecture.template",
+  "identity": "anko.cleanarchitecture.template",
   "name": "Clean Architecture Project Template",
   "description": "Clean Architecture template for microservices with API, Application, Core and Infrastructure layers om the course.",
   "shortName": "CApi",
